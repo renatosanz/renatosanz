@@ -4,19 +4,23 @@ I'm a computer science student (ninth semester, by the way), a web developer (fr
 ### Web Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,angular,nodejs,express&perline=8)](https://skillicons.dev)
 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/Mongo_DB-%23175609.svg?style=for-the-badge&logo=MongoDB&logoColor=#00C7B7) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Supabase](https://img.shields.io/badge/Supabase-%2338B2AC.svg?style=for-the-badge&logo=Supabase&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2318B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=ts,c,lua,java,kotlin,matlab,python&perline=8)](https://skillicons.dev)
+
+![GTK](https://img.shields.io/badge/GTK-C-%2300000f.svg?style=for-the-badge&logo=GTK&logoColor=green)
+![Bash](https://img.shields.io/badge/Bash-%233b2d66.svg?style=for-the-badge&logo=zsh&logoColor=green)
+
