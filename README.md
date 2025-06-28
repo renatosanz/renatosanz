@@ -19,8 +19,13 @@ I'm a computer science student (ninth semester, by the way), a web developer (fr
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,c,lua,java,kotlin,matlab,python&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,c,lua,java,kotlin,matlab,python,wasm,p5js&perline=8)](https://skillicons.dev)
 
 ![GTK](https://img.shields.io/badge/GTK-C-%2300000f.svg?style=for-the-badge&logo=GTK&logoColor=green)
-![Bash](https://img.shields.io/badge/Bash-%233b2d66.svg?style=for-the-badge&logo=zsh&logoColor=green)
+![Zsh](https://img.shields.io/badge/Zsh-%233b2d66.svg?style=for-the-badge&logo=zsh&logoColor=green)
 
+### Software
+[![My Skills](https://skillicons.dev/icons?i=blender,illustrator,git,github,neovim,latex,rabbitmq,postman&perline=8)](https://skillicons.dev)
+
+### OS's
+[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,windows,nix&perline=8)](https://skillicons.dev)
