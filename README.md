@@ -2,7 +2,7 @@
 I'm a computer science student (ninth semester, by the way), a web developer (frontend/backend), with a background in data science, and an independent game developer. Learn more about my projects on [my blog](https://riprtx.netlify.app/) and my [web portfolio](https://renatosanchez.netlify.app/).
 
 ### Web Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,angular,nodejs,express&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,astro,react,angular,nodejs,express,postgres,netlify,django&perline=8)](https://skillicons.dev)
 
 ![MongoDB](https://img.shields.io/badge/Mongo_DB-%23175609.svg?style=for-the-badge&logo=MongoDB&logoColor=#00C7B7) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
@@ -19,13 +19,14 @@ I'm a computer science student (ninth semester, by the way), a web developer (fr
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,c,lua,java,kotlin,matlab,python,wasm,p5js&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,c,lua,java,kotlin,matlab,python,wasm&perline=8)](https://skillicons.dev)
 
 ![GTK](https://img.shields.io/badge/GTK-C-%2300000f.svg?style=for-the-badge&logo=GTK&logoColor=green)
+![OpenGL](https://img.shields.io/badge/Opengl-%23282828.svg?style=for-the-badge&logo=Opengl&logoColor=green)
 ![Zsh](https://img.shields.io/badge/Zsh-%233b2d66.svg?style=for-the-badge&logo=zsh&logoColor=green)
 
 ### Software
-[![My Skills](https://skillicons.dev/icons?i=blender,illustrator,git,github,neovim,latex,rabbitmq,postman&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,illustrator,git,github,neovim,latex,rabbitmq,postman,p5js&perline=8)](https://skillicons.dev)
 
 ### OS's
 [![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,windows,nix&perline=8)](https://skillicons.dev)
